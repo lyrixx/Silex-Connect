@@ -1,3 +1,7 @@
+**THIS PROJECT HAS BEEN ABANDONED**
+
+---
+
 SensioLabsConnect Silex Service Provider
 ========================================
 
